@@ -1,1 +1,0 @@
-# Photon4Bees-HiveScale-Documentation
